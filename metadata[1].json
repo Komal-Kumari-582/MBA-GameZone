@@ -1,0 +1,6 @@
+{
+  "name": "MBA GameZone - Learn Business & Master Entrance Exams",
+  "description": "Interactive educational gaming platform for MBA students and entrance exam aspirants featuring 7 business simulations, timed quizzes, startup strategy, and gamified progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
